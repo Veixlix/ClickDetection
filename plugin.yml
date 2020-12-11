@@ -1,0 +1,11 @@
+name: IgnacioCPSAlert
+version: 1.0.1
+main: Ignacio\IgnacioCPSAlert\Main
+api: 3.15.4
+depend:
+  - PreciseCpsCounter
+
+permissions:
+  cps.watch:
+    default: op
+    description: cps watch
