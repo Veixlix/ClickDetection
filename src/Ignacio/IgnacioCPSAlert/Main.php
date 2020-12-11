@@ -13,8 +13,8 @@ class Main extends PluginBase{
 	{
 
 		$this->config = new Config($this->getDataFolder()."config.yml", Config::YAML, [
-			"alert-cps" => 0,
-			"kick-cps" => 0,
+			"alert-cps" => 19,
+			"kick-cps" => 29,
 			"check-interval" => 1,
 			"kick-message" => "You have been kicked for cheating",
 			"alert-message" => "{player} might be cheating [{cps}]!",
