@@ -1,5 +1,6 @@
 # ClickDetection
 - A "Basic" plugin that detects how fast someone is clicking.
+- This is by no means a anticheat or a fully finished plugin. It has basic kick functionality
 - Highly configurable
 - Color formatting is supported
 
