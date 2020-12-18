@@ -1,5 +1,5 @@
 <?php
-namespace Ignacio\IgnacioCPSAlert;
+namespace Ignacio\ClickDetection;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\scheduler\Task;
