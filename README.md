@@ -1,6 +1,6 @@
-# AutoClickDetection
-- A "Basic" plugin that detects if someone is cheating.
-
+# ClickDetection
+- A "Basic" plugin that detects how fast someone is clicking.
+- Highly configurable
 - Color formatting is supported
 
 ## How to Install?
