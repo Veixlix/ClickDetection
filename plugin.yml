@@ -1,6 +1,6 @@
-name: IgnacioCPSAlert
-version: 1.0.1
-main: Ignacio\IgnacioCPSAlert\Main
+name: ClickDetection
+version: 1.0.2
+main: Ignacio\ClickDetection\Main
 api: 3.15.4
 depend:
   - PreciseCpsCounter
@@ -8,4 +8,4 @@ depend:
 permissions:
   cps.watch:
     default: op
-    description: cps watch
+    description: Sends a message to all people with op by default or with the permission how fast someone is clicking.
