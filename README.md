@@ -10,3 +10,4 @@
 * Drop in plugin folder
 * Restart the server
 * check plugindata for config.yml to make changes.
+![header image](https://github.com/Ignaciox/ClickDetection/blob/main/example.png)
